@@ -1,0 +1,67 @@
+{
+  "icons": [
+    {
+      "src": "/icon_180x180.5e84889bf51bd397bdcb643a7cc4c30d.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_167x167.67d7033fbd3ab56bcfbe75669c8ce5b0.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_152x152.52a09510e7e0d453abc1094065a53be7.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_120x120.9c0f6039dfb705a12c3e228a66f6fd81.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_512x512.01b274dc3f7f179ed25d9aaadc84f9d6.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.fe037df53ca14947521fc30d05b9d496.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.c4aac23565fff0279d2b7f249698cbb3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_144x144.6258188acbb9708a4e6e5c709614bb7f.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.39850bbdcb7c85497ba438caf834b295.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0c1a751e4c29ca9fae615a8dcfbbf7a9.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_72x72.a94ca8b705b0a08f70c54b12765c2b87.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "name": "Mobillet",
+  "short_name": "Mobillet",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "تجربه‌ راحت و لذت‌بخش از انتقال و پرداخت برای بهبود سبک زندگی مالی",
+  "theme_color": "#f7f7f7",
+  "background_color": "#f7f7f7"
+}
